@@ -1,6 +1,6 @@
 {
   "name": "@web-ui/scss-to-esmodule",
-  "version": "0.5.0",
+  "version": "0.6.0",
   "description": "Transpile .scss files, apply postcss plugins if defined and wrap the styles inside template literal string and export as ESM",
   "main": "./src/index.js",
   "scripts": {
@@ -37,7 +37,7 @@
     "chokidar": "^3.5.0",
     "common-tags": "^1.8.0",
     "glob": "^7.1.6",
-    "node-sass": "^5.0.0",
+    "node-sass": "^8.0.0",
     "node-sass-package-importer": "^5.3.2",
     "npm-check-updates": "^10.2.5",
     "optionator": "^0.9.1",
